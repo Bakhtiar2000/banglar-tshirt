@@ -1,0 +1,21 @@
+.orange{
+    background-color: orange;
+}
+.blue{
+    background-color: rgba(0, 0, 255, 0.5);
+}
+.red{
+    background-color: rgba(255, 0, 0, 0.5);
+}
+.pink{
+    background-color: pink;
+}
+.cyan{
+    background-color: cyan;
+}
+.green{
+    background-color: lightgreen;
+}
+.bold{
+    font-style: bold;
+}
